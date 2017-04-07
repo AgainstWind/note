@@ -5,8 +5,12 @@ h3{
 }
 
 a{
-  padding-left: 10%;
-  font-size: 25px;
+  padding-left: 15%;
+  font-size: 18px;
+}
+
+i{
+  padding-left: 70%;
 }
 
 .menu {
@@ -49,7 +53,7 @@ img{margin:0 auto}
 .header-section {
   background-color:#ffffff;
   color:#808000;
-  padding:40px 5px;
+  padding:40px 5px 60px 5px;
 }
 .header-section img {
   max-width:150px;
