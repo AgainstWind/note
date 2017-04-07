@@ -1,5 +1,9 @@
 /* app css stylesheet */
 
+h3{
+  text-align: center;
+}
+
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
@@ -38,8 +42,8 @@ body {
 img{margin:0 auto}
 
 .header-section {
-  background-color:#065883;
-  color:#fff;
+  background-color:#ffffff;
+  color:#808000;
   padding:40px 5px;
 }
 .header-section img {
