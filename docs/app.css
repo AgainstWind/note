@@ -4,6 +4,11 @@ h3{
   text-align: center;
 }
 
+a{
+  padding-left: 10%;
+  font-size: 25px;
+}
+
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
